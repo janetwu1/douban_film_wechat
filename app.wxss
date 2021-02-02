@@ -1,0 +1,6 @@
+page{
+  background-color: #efefef;
+}
+
+@import "/templates/loading/loading.wxss";
+@import "/templates/nomore/nomore.wxss";
